@@ -1,0 +1,33 @@
+/* Global Reset */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f1f1f1;
+    color: #c3c4c5;
+}
+
+/* Container Styling */
+.container {
+    text-align: center;
+}
+
+/* Header Styling */
+h1 {
+    font-size: 3rem;
+    color: #c3c4c5; /* A red color for the message */
+}
+
+/* Paragraph Styling */
+p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
